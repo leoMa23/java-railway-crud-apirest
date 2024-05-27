@@ -1,5 +1,5 @@
 # CRUD API REST en JAVA 
-#### Este proyecto consiste en la implementación de un CRUD (Crear, Leer, Actualizar, Eliminar) servido a través de una API REST desarrollada en Java utilizando Spring Boot, Hibernate y PostgreSQL. 
+#### Este proyecto consiste en la implementación de un CRUD (Crear, Leer, Actualizar, Eliminar) servido a través de una API REST desarrollada en Java utilizando Spring Boot, Hibernate y PostgreSQL. Esta configurado para poder desplegarlo en Railway. URL a la APP([java-crud-apirest-railway-production.up.railway.app](https://java-crud-apirest-railway-production.up.railway.app/productos))
 ## Descripción del Proyecto
  Hemos creado una API REST que permite realizar operaciones CRUD sobre una entidad `Producto`. 
 La API permite: 
